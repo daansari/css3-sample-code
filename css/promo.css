@@ -10,4 +10,13 @@
     position: absolute;
     bottom: 340px;
     right: 155px;
+    width: 316px;
 }
+
+    .promo-btn {
+        display: inline-block;
+        width: 208px;
+        padding: 13px 0;
+        background-color: #6c0733;
+        box-shadow: rgba(0, 0, 0, .25) 0 7px 2px 0;
+    }

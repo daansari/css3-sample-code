@@ -13,6 +13,14 @@
     padding: 0 40px;
 }
 
+    /* More Button */
+    .more-btn {
+        text-align: center;
+        float: right;
+        margin-right: 40px;
+        width: 280px;
+    }
+
 /* Sidebar Section */
 .sidebar {
     width: 360px;
