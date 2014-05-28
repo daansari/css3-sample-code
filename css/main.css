@@ -1,0 +1,17 @@
+/* Main Content Area */
+.main {
+    width: 1020px;
+    margin: 0 auto;
+}
+
+/* Latest Section */
+.latest {
+    width: 640px;
+    float: left;
+}
+
+/* Sidebar Section */
+.sidebar {
+    width: 360px;
+    float: right;
+}
