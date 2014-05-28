@@ -1,0 +1,10 @@
+/* Promo Styles */
+.promo {
+    position: relative;
+}
+
+.promo-desc {
+    position: absolute;
+    bottom: 340px;
+    right: 155px;
+}
