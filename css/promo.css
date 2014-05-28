@@ -1,6 +1,7 @@
 /* Promo Styles */
 .promo {
     position: relative;
+    z-index: 5;
 }
 
 .promo-desc {
