@@ -1,4 +1,9 @@
 /* Footer Styles */
+footer {
+/*    background-color: rgba(66, 3, 30, .5);*/
+    background-color: rgb(66, 3, 30);
+}
+
 .footer-1 {
     float: left;
     width: 422px;
