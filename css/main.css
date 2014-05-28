@@ -2,6 +2,8 @@
 .main {
     width: 1020px;
     margin: 0 auto;
+    outline: solid 1px red;
+    background: green;
 }
 
 /* Latest Section */
