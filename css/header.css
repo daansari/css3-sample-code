@@ -1,3 +1,10 @@
+/* Header */
+body > header {
+    box-shadow: rgba(0, 0, 0, .25) 0 4px 8px 0;
+    position: relative;
+    z-index: 10;
+}
+
 /* Logo */
 .logo {
     float: left;
