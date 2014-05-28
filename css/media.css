@@ -1,0 +1,11 @@
+/* Media */
+.media {
+    clear: left;
+    padding-bottom: 28px;
+    overflow: hidden;
+}
+
+    .media img {
+        float: left;
+        margin-right: 30px;
+    }
