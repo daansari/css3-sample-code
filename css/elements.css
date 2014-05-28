@@ -8,3 +8,7 @@
 body {
     background: #cab5a3 url(../img/bg-main.gif) repeat repeat 0 0;
 }
+
+h1 {
+    text-shadow: rgba(0, 0, 0, .3) 3px 3px 4px;
+}
