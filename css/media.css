@@ -8,4 +8,6 @@
     .media img {
         float: left;
         margin-right: 30px;
+        border: solid 9px #ede0d5;
+        max-width: 260px;
     }
