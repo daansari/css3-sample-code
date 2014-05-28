@@ -19,6 +19,25 @@
     float: right;
 }
 
+    /* Most Popular Recipes */
+    .popular {
+        padding-bottom: 40px;
+    }
+
+        .rating {
+            float: left;
+            clear: left;
+            padding-top: 4px;
+            padding-right: 15px;
+            width: 45px;
+        }
+
+        .popular-item {
+            padding-bottom: 20px;
+            float: left;
+            width: 250px;
+        }
+
     /* Tweet Section */
     .tweet {
         padding-left: 55px;
