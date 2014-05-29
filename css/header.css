@@ -3,6 +3,7 @@ body > header {
     box-shadow: rgba(0, 0, 0, .25) 0 4px 8px 0;
     position: relative;
     z-index: 10;
+    background-image: linear-gradient(#87053e, #560329);
 }
 
 /* Logo */
