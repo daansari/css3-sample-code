@@ -24,6 +24,10 @@ nav {
 
     nav a {
         color: #fefefe;
+        -webkit-transition: color .4s ease-out;
+        -moz-transition: color .4s ease-out;
+        -o-transition: color .4s ease-out;
+        transition: color .4s ease-out;
     }
 
     nav a:hover {

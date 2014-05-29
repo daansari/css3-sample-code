@@ -38,6 +38,14 @@
         text-decoration: none;
     }
 
+    .media a h2,
+    .media a p {
+        -webkit-transition: color .3s linear;
+        -moz-transition: color .3s linear;
+        -o-transition: color .3s linear;
+        transition: color .3s linear;
+    }
+
     .media a:hover h2,
     .media a:hover p {
         color: #b32c1c;
