@@ -3,6 +3,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    font-family: Lato, Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -17,4 +18,11 @@ h1 {
 a {
     text-decoration: none;
     color: #544a40;
+}
+
+h1, h2, nav {
+    font-family: ChelseaMarket, Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #810430;
 }

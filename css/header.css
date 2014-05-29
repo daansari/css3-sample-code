@@ -36,4 +36,9 @@ nav {
             display: inline-block;
             *display: inline; /* for IE7 */
             margin-right: 30px;
+            font-size: 20px;
+        }
+
+        nav ul li:last-child {
+            margin-right: 0;
         }
