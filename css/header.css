@@ -26,6 +26,11 @@ nav {
         color: #fefefe;
     }
 
+    nav a:hover {
+        text-decoration: none;
+        color: #cdb8a5;
+    }
+
     nav ul {
         list-style: none;
         margin: 0;

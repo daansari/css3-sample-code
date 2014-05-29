@@ -20,6 +20,10 @@ a {
     color: #544a40;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 h1, h2, nav {
     font-family: ChelseaMarket, Arial, Helvetica, sans-serif;
     text-transform: uppercase;

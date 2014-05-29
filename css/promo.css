@@ -24,6 +24,10 @@
         color: #fefefe;
     }
 
+    .promo-btn:hover {
+        text-decoration: none;
+    }
+
     .promo-desc h1 {
         color: #fefefe;
     }
