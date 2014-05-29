@@ -59,3 +59,11 @@
         left: 15px;
         top: 4px;
     }
+
+    .tweet a {
+        color: #810430;
+    }
+
+    .tweet .date {
+        color: #8f7e6d;
+    }

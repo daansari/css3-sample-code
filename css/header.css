@@ -22,6 +22,10 @@ nav {
     padding-top: 20px;
 }
 
+    nav a {
+        color: #fefefe;
+    }
+
     nav ul {
         list-style: none;
         margin: 0;
