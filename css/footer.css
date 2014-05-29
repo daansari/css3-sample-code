@@ -2,22 +2,64 @@
 footer {
 /*    background-color: rgba(66, 3, 30, .5);*/
     background-color: rgb(66, 3, 30);
+    padding-top: 10px;
+    padding-bottom: 50px;
 }
+
+    footer ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
 
 .footer-1 {
     float: left;
     width: 422px;
 }
 
+        .footer-1 h2 {
+            font-size: 36px;
+        }
+
+        .footer-1 ul,
+        .footer-2 ul {
+            font-size: 20px;
+            line-height: 1.7;
+        }
+
+            .footer-1 li {
+                float: left;
+                width: 195px;
+            }
+
+            .footer-1 a,
+            .footer-2 a {
+                color: #ab97a0;
+            }
+
 .footer-2 {
     float: left;
     width: 326px;
+    padding-top: 22px;
 }
+
+    .footer-2 ul {
+        margin: 0 80px 0 0;
+    }
 
 .footer-3 {
     float: left;
     width: 232px;
+    color: #801c48;
 }
+
+    .footer-3 h2, .footer-3 a {
+        color: #801c48;
+    }
+
+    .footer-3 li {
+        line-height: 1.7;
+    }
 
 .footer-inside {
     padding-left: 40px;
