@@ -4,12 +4,20 @@
     z-index: 5;
     padding-bottom: 8px;
     box-shadow: rgba(0, 0, 0, .25) 0 3px 2px 0;
-    background-image: linear-gradient(#4e0324, #4e0324 97%, #851f49)
+    background-image: linear-gradient(#4e0324, #4e0324 97%, #851f49);
+    max-height: 500px;
+    overflow: hidden;
 }
+
+    .promo img {
+        opacity: .85;
+        width: auto;
+        height: auto;
+    }
 
 .promo-desc {
     position: absolute;
-    bottom: 340px;
+    bottom: 100px;
     right: 155px;
     width: 316px;
 }
